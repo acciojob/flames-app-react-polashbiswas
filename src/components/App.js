@@ -28,9 +28,6 @@ let App=()=>{
                     break;
                 }
             }
-            // if(flag==false){
-            //     newArr.push(arrOne[i]);
-            // }
         }    
         
         let str=newArr.join("")+arrTwo.join("");
